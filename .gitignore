@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Environnements locaux et secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+*.env
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editeurs et systeme
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
